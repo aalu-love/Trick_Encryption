@@ -11,9 +11,9 @@ py.exe T.py -k T -n 'KeyName.anything'<br>
 
 Message: <img src="images/msg.png" alt="no_image"><br>
 ## Encryption:<br>
-py.exe T.py -en 'FileName' -key 'keyName.anything'<br>
-b'2X7dMLTgWcyNZq09-Bv-WxtOKiPR9QH0XWUmJvflpi8=\x02z'<br>
-5<br>
+- py.exe T.py -en 'FileName' -key 'keyName.anything'<br>
+- b'2X7dMLTgWcyNZq09-Bv-WxtOKiPR9QH0XWUmJvflpi8=\x02z'<br>
+- 5<br>
 <img src="images/enmsg.png" alt="no_image"><br><br>
 
 ## Decryption:<br>
@@ -23,7 +23,7 @@ b'2X7dMLTgWcyNZq09-Bv-WxtOKiPR9QH0XWUmJvflpi8=\x02z'<br>
 
 ## Know the key code:<br>
 py.exe T.py -load 'keyName.anything'<br>
-122<br>
+10<br>
 Note : 5 + 5 = <b>10</b> (Key Code)<br>
 <img src="images/keycode.png" alt="no_image"><br>
 
