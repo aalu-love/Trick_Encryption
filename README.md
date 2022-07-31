@@ -11,20 +11,20 @@ Step 2 : Extract the zip to your desktop.
 
 Message: <img src="images/msg.png" alt="no_image"><br>
 ## Encryption:<br>
-- py.exe T.py -en 'FileName' -key 'keyName.anything'<br>
-- b'2X7dMLTgWcyNZq09-Bv-WxtOKiPR9QH0XWUmJvflpi8=\x02z'<br>
-- 5<br>
+> py.exe T.py -en 'FileName' -key 'keyName.anything'<br>
+> b'2X7dMLTgWcyNZq09-Bv-WxtOKiPR9QH0XWUmJvflpi8=\x02z'<br>
+> 5<br>
 <img src="images/enmsg.png" alt="no_image"><br><br>
 
 ## Decryption:<br>
--> py.exe T.py -de 'FileName' -key 'keyName.anything' -t 5<br>
+> py.exe T.py -de 'FileName' -key 'keyName.anything' -t 5<br>
 <img src="images/demsg.png" alt="no_image"><br>
 <img src="images/decode.png" alt="no_image"><br>
 
 ## Know the key code:<br>
-py.exe T.py -load 'keyName.anything'<br>
-10<br>
-Note : 5 + 5 = <b>10</b> (Key Code)<br>
+> py.exe T.py -load 'keyName.anything'<br>
+> 10<br>
+> Note : 5 + 5 = <b>10</b> (Key Code)<br>
 <img src="images/keycode.png" alt="no_image"><br>
 
 
