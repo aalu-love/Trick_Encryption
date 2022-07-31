@@ -5,8 +5,8 @@ Step 1 : Clone or download the repo.
 Step 2 : Extract the zip to your desktop.
 
 ## Genrate Key:<br>
-py.exe T.py -k T -n 'KeyName.anything'<br>
-5 (Remember the Code here)<br>
+:> py.exe T.py -k T -n 'KeyName.anything'<br>
+:> 5 (Remember the Code here)<br>
 <img src="images/keygen.png" alt="no_image"><br><br>
 
 Message: <img src="images/msg.png" alt="no_image"><br>
